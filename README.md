@@ -9,3 +9,5 @@ run pip install -r requirements.txt in the folder, open config.json enter your t
     "Pronoun_2": "https://guns.lol/darghano",
     "Delay": "5"
 }
+
+If u get termed for using this its not my fault its a very low chance but still can happen (very very low chance tho)
